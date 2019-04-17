@@ -107,7 +107,7 @@ en_us:
       simply_visit: "Simply visit <a href='%{website_url}' style=\"color: #1b8eef;\">www.airhelp.com</a> and use your current email (<b>%{user_email}</b>). Input the details of your disrupted flight and we will take care of the rest!"
       subject: "AirHelp+ Confirmation Email"
       submiting_claim_with_airhelp_plus: "Claiming compensation is fast and easy. Just sign in with your account and file a claim. You'll see that all fees have been waived for the entire 12 month period!"
-      terms_and_conditions: "Terms & Conditions"
+      terms_and_conditions: "Terms &amp; Conditions"
       thank_you_for_joining: "Thank you for joining AirHelp+"
       thanks_to_airhelp_you_are_covered: "With AirHelp+ you can fly the next 12 months with ease of mind. Any time you experience a flight disruption covered by EC261 we'll fight for your right for compensation completely for free."
       twelve_month_coverage: "12 month coverage"
@@ -176,13 +176,13 @@ en_us:
       address_2_placeholder: "Address 2 (optional)"
       airlines_require_attach_information: "Airlines require us to attach this information."
       already_an_airhelp_member_click_here_to_login: "Already an AirHelp member? <b>Log in here</b>"
-      by_clicking_continue: "By clicking Continue, you agree with our <a href=\"%{link}\" target=\"_blank\">Terms & Conditions</a>."
+      by_clicking_continue: "By clicking Continue, you agree with our <a href=\"%{link}\" target=\"_blank\">Terms &amp; Conditions</a>."
       city_placeholder: City
       country_placeholder: Country
       email_address: "Email address"
       make_sure_your_name_is_appears: "Make sure to type your name as it appears on your flight ticket."
       minimum_password_length_is_characters: "Minimum password length is %{count} characters"
-      pass_this_step: "We’ll use this information to create an AirHelp account for you. By clicking Continue, you agree with our Terms & Conditions."
+      pass_this_step: "We’ll use this information to create an AirHelp account for you. By clicking Continue, you agree with our Terms &amp; Conditions."
       provide_your_details: "Provide your details to proceed with claiming <span class=\"amount\">%{amount}</span>."
       provide_your_email_address: "Provide your email address to proceed with claiming <span class=\"amount\">%{amount}</span>."
       read_here_legal_stuff: "(<a href=\"%{link}\" target=\"blank\">Read here</a> for the full scoop)"
@@ -255,10 +255,10 @@ en_us:
     do_you_want_to_leave: "Do you want to leave this site? All the changes that you've made so far will be lost."
     documents_require:
       documents_for_fellow_passengers: "Documents for fellow passengers:"
-      drag_boarding_pass: "Drag & drop Boarding pass or Booking confirmation"
-      drag_id_or_passport: "Drag & drop the ID or Passport here"
-      drag_id_or_passport_for_fellow: "Drag & drop the ID or Passport for %{fellow_passenger_name}"
-      drag_photo_identification: "Drag & drop photo identification"
+      drag_boarding_pass: "Drag &amp; drop Boarding pass or Booking confirmation"
+      drag_id_or_passport: "Drag &amp; drop the ID or Passport here"
+      drag_id_or_passport_for_fellow: "Drag &amp; drop the ID or Passport for %{fellow_passenger_name}"
+      drag_photo_identification: "Drag &amp; drop photo identification"
       provide_boarding_pass: "Provide boarding pass or e-ticket. It's legally required to build the case against <b>%{airline}</b>."
       provide_id_or_passport: "Provide photo of your Passport or ID. It's legally required to build the case against <b>%{airline}</b>."
       provide_id_or_passport_for_fellow: "Provide photo of <b>%{fellow_passenger_name}'s</b> Passport or ID. It's legally required to build the case against <b>%{airline}.</b> We will ask for documents of other passengers on the next step."
@@ -282,7 +282,7 @@ en_us:
       assignment_form: "Assignment Forms"
       avoid_the_paperwork: "Avoid the paperwork. Save yourself time and stress by claiming with AirHelp."
       clear: "Clear signature"
-      click_and_draw: "Click & draw your signature"
+      click_and_draw: "Click &amp; draw your signature"
       complicated_takes_a_lot_of_time: "Complicated (takes a lot of time)"
       customer_support: "24/7 customer support"
       doing_it_yourself: "Doing it yourself"
@@ -518,7 +518,7 @@ en_us:
     volunteer_no: "No"
     volunteer_yes: "Yes"
     we_are_already_taking_care_your_claim: "We have the information we need to get started. In the meantime, you can help us get a head start by providing some additional information. The following is optional, but it can significantly speed up the claim process."
-    we_will_now_fight: "We’ll review your claim and send it along to the airline soon. You should be receiving  an email from us to let you know what’s next and we’ll be sure to keep you up-to-date on the progress moving forward."
+    we_will_now_fight: "We’ll review your claim and send it along to the airline soon. You should be receiving an email from us to let you know what’s next and we’ll be sure to keep you up-to-date on the progress moving forward."
     weak_reason_falls_under: "falls under <strong>\"extraordinary circumstances\"</strong> and will need extra review."
     weak_reasons_modal:
       after_you_submit: "After you submit your claim, we'll research the details of your flight to see if you are in fact owed compensation."
@@ -539,7 +539,7 @@ en_us:
     you_can_also_view_your_claim_here: "You can also view your claim here"
     you_can_find_it: "Having trouble finding your booking reference? Check your e-ticket, reservation confirmation, or travel documentation. These may all be in your e-mail inbox!"
     you_have_succesfully_claimed_your_flight: "You’ve succesfully claimed your flight!"
-    you_succesfully_claimed: "Your compensation claim  has been submitted"
+    you_succesfully_claimed: "Your compensation claim has been submitted"
     your_claim_submitted_what_is_going_happen_next: "Your claim has been submitted. What’s going to happen next?"
   claim_state:
     accepted_after_legal_action_description: "It's been a long road, but our efforts have paid off. %{airline_name} has accepted your claim and is going to be sending your money soon. We told you this was going to be awesome."
@@ -819,7 +819,7 @@ en_us:
       get_compensation: "Get compensation"
       potential_compensation: "Potential compensation"
     find_more_flights: "Want to find more flights?"
-    header: "Claims & Flights"
+    header: "Claims &amp; Flights"
     mailboxes_connecting:
       continue_with_google: "Continue with Google"
       continue_with_hotmail: "Continue with Hotmail"
@@ -878,7 +878,7 @@ en_us:
     answer_yes: "Yes"
     be_sure_provide_it_as_soon_as_possible: "Be sure to provide it as soon as possible, you can also forward it to <a href=\"mailto:%{email}\">%{email}</a>.<br>If we haven’t heard from you in 5 days, we’ll send an email to remind you."
     choose_how_to_complete_assignment_form: "Choose how to complete the Assignment Form:"
-    click_and_hold_to_draw_your_signature: "Click & hold to draw your signature"
+    click_and_hold_to_draw_your_signature: "Click &amp; hold to draw your signature"
     dark_clouds_on_horizon: "Dark clouds on a horizon!"
     did_the_airline_offer_transportation: "Did the airline offer substitute transportation?"
     did_you_accept_and_use_any_compensation: "Did you accept and use any form of compensation at the airport (check, voucher, free tickets, etc) for your involuntary bumping?"
@@ -984,14 +984,14 @@ en_us:
     provide_more_details: "Provide more details <span>(required):</span>"
     read_more: "Read more"
     reason_options:
-      account_privacy: "Account & Privacy"
+      account_privacy: "Account &amp; Privacy"
       additional_information: "Additional information or changes to claim"
       airhelp_plus: AirHelp+
       change_flight_information: "Change flight information"
       claim_update: "Claim status"
       delete_account: "Delete account"
       documents_part: Documents
-      fees: "Terms & Fees"
+      fees: "Terms &amp; Fees"
       payouts_methods: Payouts
       stop_claiming_process: "Stop claiming process"
       technical_issues: "Technical issues"
@@ -1167,7 +1167,7 @@ en_us:
     upload_more: "Upload more"
   documents_we_need: "Documents we need:"
   dont_have_an_account: "Don't have an account?"
-  drag_and_drop_the_file_here: "Drag & drop the file here"
+  drag_and_drop_the_file_here: "Drag &amp; drop the file here"
   eligibility_check: "Eligibility check"
   email: Email
   email_address: "Email address"
@@ -1264,7 +1264,7 @@ en_us:
     expense_type: "Expense type"
     expenses:
       food: "Food, drink and essentials"
-      missed_events: "Missed bookings & tickets"
+      missed_events: "Missed bookings &amp; tickets"
       transport: "Accommodation, transport and transfers"
     header: "Your extra expenses"
     options:
@@ -1439,7 +1439,7 @@ en_us:
   forgot_your_password: "Forgot Your Password?"
   free_bank_transfer: "Bank transfer"
   full_compensation: "Flight Compensation"
-  get_account_and_continue: "Get account & continue"
+  get_account_and_continue: "Get account &amp; continue"
   getting_money_using_us: "Bumped from a flight? This startup wants to get you paid."
   give_us_your_email_well_send_you_instructions_reseting_password: "Give us your email and we'll send you instructions for reseting your password"
   gmail: Gmail
@@ -1456,7 +1456,7 @@ en_us:
     area10: "Claim compensation for your delayed or canceled flight"
     blog: Blog
     check_flight: "Check Flight"
-    claims_and_flights: "Claims & Flights"
+    claims_and_flights: "Claims &amp; Flights"
     help: Help
     home: Home
     start_your_claim: "Start your claim"
@@ -1498,7 +1498,7 @@ en_us:
   let_us_know_how_you_like_to_be_paid_out: "<b>Please let us know how you’d like to be paid.</b> There are a variety of ways we can send your compensation after we receive it from the airline (the options and currency will vary based on your country). Please select your preferred payout method below. Don’t worry, as long as your payout hasn’t been sent, you can edit your preferred payout method anytime!"
   load_more: "Load more"
   login: "Log in"
-  login_and_continue: "Log in & continue"
+  login_and_continue: "Log in &amp; continue"
   login_here: "Log in here"
   login_modal: "Log in"
   login_to_continue: "Log in to continue"
@@ -1590,7 +1590,7 @@ en_us:
     broken_leads_header: "We’re sorry, this link is for an ineligible flight."
     cancelled_flight: "Canceled flight"
     circumstances: "Extraordinary circumstances such as bad weather, strikes, or security risks are beyond the airline’s control. They are therefore not required to pay compensation."
-    click_and_draw: "Click & sign"
+    click_and_draw: "Click &amp; sign"
     contextual_details:
       airline: Airline
       booked_at: "Booked at"
@@ -1601,7 +1601,7 @@ en_us:
       flight_disruption: "Flight disruption"
       flight_number: "Flight number"
       flight_route: "Flight route"
-      name_and_surname: "Name & Surname"
+      name_and_surname: "Name &amp; Surname"
       your_compensation: "Your compensation"
       your_flight_details: "Your flight details"
     delayed: Delayed
@@ -1640,8 +1640,8 @@ en_us:
     when_did_inform: "When did the airline inform you of the cancellation?"
   ota_price_list:
     a_change_fee_of_will_be_imposed: "A Change Fee of 60 %{currency} will be imposed each time AirHelp will need to resend any payment of any kind."
-    a_claim_may_be: "A Claim may be re-assigned to the Client pursuant to clause %{clause} of AirHelp’s Terms & Conditions free of charge."
-    a_fee_can_be_charged_case_breach: "A fee of 1,500 USD can be charged in case of breach of AirHelp’s T&C"
+    a_claim_may_be: "A Claim may be re-assigned to the Client pursuant to clause %{clause} of AirHelp’s Terms &amp; Conditions free of charge."
+    a_fee_can_be_charged_case_breach: "A fee of 1,500 USD can be charged in case of breach of AirHelp’s T&amp;C"
     accepted_currencies: "%{point}. Accepted Currencies"
     airhelp_cannot_assist_tracking: "AirHelp cannot assist in tracking or reclaiming lost checks."
     airhelp_cannot_be_responsible_for_cheques: "AirHelp cannot be responsible for checks that do not reach their destinations, are stolen, or are otherwise lost. Checks cannot be reissued, nor can the payout be reissued in another form, should the check be lost."
@@ -1708,7 +1708,7 @@ en_us:
     re_assignment: "%{point}. Re-Assignment"
     service_fee: "%{point}. Service Fee"
     swedish_krona: "Swedish Krona (SEK)"
-    terms_conditions: "Terms & Conditions"
+    terms_conditions: "Terms &amp; Conditions"
     the_client_is_offered: "The Client is offered the following payout methods at the following rates:"
     the_legal_action: "The Legal Action Fee is only charged if Legal Action is necessary and will be deducted from your compensation payment in addition to the Service Fee. "
     the_legal_action_expedia: "The Legal Action Fee does not apply to Expedia Clients."
@@ -1855,7 +1855,7 @@ en_us:
     when_airhelp_has_established: "when AirHelp has established that it would be futile to continue to pursue the Claim after conducting an in-depth review of the case and has advised the Client that such Claim will not be pursued."
     when_airhelp_has_paid: "%{point} When AirHelp has paid the agreed Flight Compensation pursuant to the instruction of and method selection by the Client, AirHelp shall not be liable for:"
     when_asking: "%{point} After the Client has accepted these Terms, AirHelp agrees to deliver and the Client agrees to receive Eligibility Service and Information Service."
-    when_flight_compensation: "when Flight Compensation has been accepted by AirHelp,  paid in full to AirHelp by the airline and the agreed part of the Flight Compensation has been transferred to the Client after deduction of all applicable fees, or"
+    when_flight_compensation: "when Flight Compensation has been accepted by AirHelp, paid in full to AirHelp by the airline and the agreed part of the Flight Compensation has been transferred to the Client after deduction of all applicable fees, or"
     you_can_cancel: "%{point} You can withdraw your acceptance of our Agreement within 14 days from the conclusion of the Agreement (e.g., letter, email) without the need to specify any reasons. To exercise your right to withdrawal, the withdrawal must be communicated within the 14-day period mentioned above and it must clearly state that you wish to withdraw from the Agreement. Due to the nature of the service provided to you, you cannot withdraw from our Agreement, if we have informed you that the airline has accepted the Claim, as we in such event have completed the service you requested. The withdrawal can be sent to:"
   other_airports: "Other airports"
   other_fees: "Other Fees"
@@ -1909,9 +1909,9 @@ en_us:
       clabe_title: "CLABE (Clave Bancaria Estandarizada) code"
       cnaps_title: "China National Advanced Payments System (CNAPS) code"
       country_change_currency_note: "Changing country of your bank will set the currency to %{currency}."
-      free_bank_transfer_explanation: "At the moment it is possible to transfer money with this option <b>only to limited list of countries</b>. If you want your money sent to a bank in another country please <a href='%{link}' %{ga_event_data}>choose different payout option</a>."
+      free_bank_transfer_explanation: "At the moment it is possible to transfer money with this option <b>only to limited list of countries</b> . If you want your money sent to a bank in another country please <a href=\"%{link}\" %{ga_event_data}>choose different payout option</a>."
       free_bank_transfer_title: "Bank country"
-      free_bank_transfer_us_explanation: "At the moment it is possible to transfer money with this option for free only to <b>United States</b>. If you want your money sent to a bank in another country please <a href='%{link}' %{ga_event_data}>choose different payout option</a>."
+      free_bank_transfer_us_explanation: "At the moment it is possible to transfer money with this option for free only to <b>United States</b> . If you want your money sent to a bank in another country please <a href=\"%{link}\" %{ga_event_data}>choose different payout option</a>."
       iban_explanation: "<b>IBAN</b> stands for <b>International Bank Account Number</b>, which is required on EU transfers, and used of many other countries worldwide.The IBAN consists of up to 34 alphanumeric characters <a href='%{link}' target='_blank'>More info</a>"
       iban_title: IBAN
       identification_type:
@@ -1982,7 +1982,7 @@ en_us:
         ok_got_it: "Ok, I got it!"
         processing_claims_content: "Claiming compensation is fast and easy. Just sign in with your account and file a claim. You'll see that all fees have been waived for the entire 12 month period!"
         processing_claims_header: "Processing AirHelp+ claims"
-        want_to_know_more: "Want to know even more? Read <a href=\"%{link_to_terms}\" target=\"blank\">Terms & Conditions</a>"
+        want_to_know_more: "Want to know even more? Read <a href=\"%{link_to_terms}\" target=\"blank\">Terms &amp; Conditions</a>"
       i_am_fine_with_paying: "I'm fine with paying up to <span>25% fee for my next disrupted flight.</span>"
       i_want_to_keep: "I want to keep 100% of my compensation next time my flight is disrupted."
       membership_confirmation: "AirHelp+ Membership"
@@ -2226,7 +2226,7 @@ en_us:
     sickness_during_flight_title: "Your travel disruption was due to a medical emergency"
     weak_jurisdiction: "The reason we cannot continue with your claim is that the flight disruption was due to circumstances that could not be controlled or predicted by the airline. After reviewing the situation we have determined that, even if the airline had attempted to take reasonable measures to avoid the disruption, like replacing the aircraft or crew or by substituting another comparable flight, it was not possible. Since the situation was not caused by the airline and there was no way for them to avoid it, they can’t be held legally responsible for resulting flight delays and cancellations."
     weak_jurisdiction_details: "When it comes to air passenger rights, even though the regulations are clear, some places are more difficult than others when it comes to applying them. The details of your case require it to be argued in a specific location. Previous attempts at this location were unsuccessful, and we strongly believe that is not likely to change in this case. Of course, you’re always free to pursue the case on your own."
-    weak_jurisdiction_title: "It’s  unlikely your claim will be successful"
+    weak_jurisdiction_title: "It’s unlikely your claim will be successful"
   rejected_by_airhelp: "Claim Disqualified"
   rejected_by_airhelp_reason:
     airline_bankruptcy: "The airline that operated your flight has gone out of business. We took some time to contact the airline and to evaluate the situation, which is why we are just informing you now. After careful consideration, our legal team believes that the chances of recovering any compensation at all in this case are very slim and it doesn’t make sense to invest the time and expense necessary to continue. You are, of course, free to pursue your case on your own, but we unfortunately won’t be involved moving forward."
@@ -2399,7 +2399,7 @@ en_us:
     weather_conditions: "The airline has stated that the flight disruption was caused by severe weather conditions. These may include:<ul><li>Icy conditions</li><li>Thunderstorms and heavy precipitation</li><li>Strong winds, turbulence, or up/downdrafts</li><li>Poor visibility</li><li>Volcanic activity</li></ul>Safety is of the utmost importance in air travel, so poor weather conditions can reduce or even completely halt air traffic. While airlines may not be held liable for flight disruptions due to severe weather, further investigation is needed to confirm the circumstances in your case."
     weather_conditions_details: "Safety is always the top priority in air travel. So if the weather creates a dangerous situation at one of the airports associated with your flight, it’ll keep planes on the ground—backing up or even completely halting air traffic. These situations are considered \"extraordinary circumstances\" for which the airline isn’t liable, and may include:<ul><li>Icy conditions, thunderstorms, and heavy precipitation</li><li>Strong winds, turbulence, or up/downdrafts</li><li>Poor visibility</li><li>Volcanic ash</li></ul>"
     weather_conditions_title: "Your flight was disrupted by bad weather"
-  save_and_continue: "Save & Continue"
+  save_and_continue: "Save &amp; Continue"
   scan_inbox_for_flights: "Check inbox for claims"
   scan_inbox_for_more_flights: "Scan inbox for more flights"
   scanner:
@@ -2481,7 +2481,7 @@ en_us:
   submit_progress: Submit...
   submitted_on: "Submitted on"
   successfully_claimed: "Claim successful"
-  summary_confirmation: "Summary & confirmation"
+  summary_confirmation: "Summary &amp; confirmation"
   take_photo_with_webcam: "Take photo with webcam"
   thank_you: "Thank you!"
   the_airline_you_flew_with_requires_some_documents: "Additional documentation required in claim handling procedures."
@@ -2490,7 +2490,7 @@ en_us:
   traveller_details: "Traveler details"
   travelling_documents:
     boarding_pass: "boarding pass"
-    click_to_upload_or_drop_files: "<b>Drag & drop the document here</b><br />or <span>select file</span> to upload"
+    click_to_upload_or_drop_files: "<b>Drag &amp; drop the document here</b><br />or <span>select file</span> to upload"
     confirmation: "confirmation you get after buying the ticket"
     download: Download
     e-ticket: "e-ticket"
